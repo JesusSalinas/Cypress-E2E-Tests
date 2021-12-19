@@ -1,0 +1,15 @@
+{
+    "testFiles": "**/*.spec.{ts,tsx,js,jsx}",
+    "viewportWidth": 1536,
+    "viewportHeight": 960,
+    "defaultCommandTimeout": 12000,
+    "integrationFolder": "cypress/integration",
+    "projectId":  "i7fqfg",
+    "chromeWebSecurity": false,
+    "baseUrl": "https://test.todoist.team",
+    "env": {
+      "API_URL": "https://test.todoist.team",
+      "PASSWORD": "****",
+      "ADMIN_USER": "test@todoist.team"
+    }
+  }
