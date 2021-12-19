@@ -1,6 +1,8 @@
 {
   "scripts": {
-    "cy:open": "cypress open --config-file config.beta.json"
+    "cy:beta": "cypress open --config-file config.beta.json",
+    "api-smoke:beta": "cypress run --spec 'cypress/integration/api/smoke/**' --headless --config-file config.beta.json",
+    "api-regression:beta": "cypress run --spec 'cypress/integration/api/regression/**' --headless --config-file config.beta.json"
   },
   "devDependencies": {
     "cypress": "^9.1.1",
