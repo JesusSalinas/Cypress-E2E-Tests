@@ -1,0 +1,394 @@
+{
+    "bank_code": [
+        {
+            "name": "Banco Nacional de México, S.A.",
+            "code": "002"
+        },
+        {
+            "name": "Banco Nacional de Comercio Exterior, S.N.C.",
+            "code": "006"
+        },
+        {
+            "name": "Bancomer, S.A.",
+            "code": "012"
+        },
+        {
+            "name": "Santander Mexicano, S.A.",
+            "code": "014"
+        },
+        {
+            "name": "Banco Nacional del Ejército y Fuerza Aérea y Armada, S.N.C.",
+            "code": "019"
+        },
+        {
+            "name": "Bital, S.A.",
+            "code": "021"
+        },
+        {
+            "name": "Banco del Bajío, S.A.",
+            "code": "030"
+        },
+        {
+            "name": "Banco Inbursa, S.A.",
+            "code": "036"
+        },
+        {
+            "name": "Banca Mifel, S.A.",
+            "code": "042"
+        },
+        {
+            "name": "Scotiabank, S.A.",
+            "code": "044"
+        },
+        {
+            "name": "Banco Regional de Monterrey, S.A.",
+            "code": "058"
+        },
+        {
+            "name": "Banco Afirme, S.A.",
+            "code": "062"
+        },
+        {
+            "name": "Banco Mercantil del Norte, S.A.",
+            "code": "072"
+        },
+        {
+            "name": "American Express Bank (México), S.A.",
+            "code": "103"
+        },
+        {
+            "name": "Bank of America México, S.A.",
+            "code": "106"
+        },
+        {
+            "name": "Dresdner Bank México, S.A.",
+            "code": "113"
+        },
+        {
+            "name": "Azteca",
+            "code": "127"
+        },
+        {
+            "name": "Nacional Financiera, S.N.C.",
+            "code": "135"
+        }
+    ],
+    "ladas": [
+        {
+          "name": "ANDORA",
+          "lada": "376"
+        },
+        {
+          "name": "GABON",
+          "lada": "241"
+        },
+        {
+          "name": "PANAMA",
+          "lada": "507"
+        },
+        {
+          "name": "CUBA",
+          "lada": "53"
+        },
+        {
+          "name": "TUNEZ",
+          "lada": "216"
+        },
+        {
+          "name": "CHILE",
+          "lada": "56"
+        },
+        {
+          "name": "CHINA",
+          "lada": "86"
+        },
+        {
+          "name": "MEXICO",
+          "lada": "52"
+        },
+        {
+          "name": "MOLDOVA",
+          "lada": "373"
+        },
+        {
+          "name": "VENEZUELA",
+          "lada": "58"
+        },
+        {
+          "name": "ECUADOR ",
+          "lada": "593"
+        },
+        {
+          "name": "MYANMAR",
+          "lada": "95"
+        },
+        {
+          "name": "VIETNAM",
+          "lada": "84"
+        },
+        {
+          "name": "EGIPTO",
+          "lada": "828"
+        },
+        {
+          "name": "EMIRATOS ARABES ",
+          "lada": "971"
+        },
+        {
+          "name": "NICARAGUA",
+          "lada": "505"
+        },
+        {
+          "name": "SERBIA",
+          "lada": "381"
+        },
+        {
+          "name": "ESLOVENIA ",
+          "lada": "386"
+        },
+        {
+          "name": "NIGERIA",
+          "lada": "234"
+        },
+        {
+          "name": "ZIMBABWE",
+          "lada": "263"
+        },
+        {
+          "name": "ESTONIA ",
+          "lada": "372"
+        },
+        {
+          "name": "NORUEGA ",
+          "lada": "47"
+        },
+        {
+          "name": "ETIOPIA",
+          "lada": "251"
+        },
+        {
+          "name": "NUEVA ZELANDIA ",
+          "lada": "64"
+        },
+        {
+          "name": "FIJI",
+          "lada": "679"
+        },
+        {
+          "name": "FILIPINAS",
+          "lada": "63"
+        },
+        {
+            "name": "BRASIL",
+            "lada": "55"
+        },
+        {
+            "name": "COLOMBIA",
+            "lada": "57"
+        },
+        {
+          "name": "PAISES BAJOS ",
+          "lada": "31"
+        }
+    ],
+    "place_code": [
+        {
+          "name": "Aguascalientes",
+          "code": "010"
+        },
+        {
+          "name": "Calvillo",
+          "code": "012"
+        },
+        {
+          "name": "Jesus Maria",
+          "code": "014"
+        },
+        {
+          "name": "Mexicali",
+          "code": "020"
+        },
+        {
+          "name": "Ensenada",
+          "code": "022"
+        },
+        {
+          "name": "Tecate",
+          "code": "027"
+        },
+        {
+          "name": "Zimapan",
+          "code": "314"
+        },
+        {
+          "name": "El Salto",
+          "code": "320"
+        },
+        {
+          "name": "Guadalajara",
+          "code": "320"
+        }
+    ],
+    "state": [
+        {
+          "name": "AGUAS CALIENTES",
+          "id": 1,
+          "key": "AGS"
+        },
+        {
+          "name": "BAJA CALIFORNIA NORTE",
+          "id": 2,
+          "key": "BCN"
+        },
+        {
+          "name": "BAJA CALIFORNIA SUR",
+          "id": 3,
+          "key": "BCS"
+        },
+        {
+          "name": "CAMPECHE",
+          "id": 4,
+          "key": "CAM"
+        },
+        {
+          "name": "CIUDAD DE MEXICO",
+          "id": 5,
+          "key": "CDM"
+        },
+        {
+          "name": "CHIHUAHUA",
+          "id": 6,
+          "key": "CHI"
+        },
+        {
+          "name": "CHIAPAS",
+          "id": 7,
+          "key": "CHS"
+        },
+        {
+          "name": "COAHUILA",
+          "id": 8,
+          "key": "COA"
+        },
+        {
+          "name": "COLIMA",
+          "id": 9,
+          "key": "COL"
+        },
+        {
+          "name": "DURANGO",
+          "id": 10,
+          "key": "DGO"
+        },
+        {
+          "name": "ESTADO DE MEXICO",
+          "id": 11,
+          "key": "EM"
+        },
+        {
+          "name": "GUERRERO",
+          "id": 12,
+          "key": "GRO"
+        },
+        {
+          "name": "GUANAJUATO",
+          "id": 13,
+          "key": "GTO"
+        },
+        {
+          "name": "HIDALGO",
+          "id": 14,
+          "key": "HGO"
+        },
+        {
+          "name": "JALISCO",
+          "id": 15,
+          "key": "JAL"
+        },
+        {
+          "name": "MICHOACAN",
+          "id": 16,
+          "key": "MIC"
+        },
+        {
+          "name": "MORELOS",
+          "id": 17,
+          "key": "MOR"
+        },
+        {
+          "name": "NAYARIT",
+          "id": 18,
+          "key": "NAY"
+        },
+        {
+          "name": "NUEVO LEON",
+          "id": 19,
+          "key": "NL"
+        },
+        {
+          "name": "OAXACA",
+          "id": 20,
+          "key": "OAX"
+        },
+        {
+          "name": "PUEBLA",
+          "id": 21,
+          "key": "PUE"
+        },
+        {
+          "name": "QUINTANA ROO",
+          "id": 22,
+          "key": "QR"
+        },
+        {
+          "name": "QUERETARO",
+          "id": 23,
+          "key": "QRO"
+        },
+        {
+          "name": "SINALOA",
+          "id": 24,
+          "key": "SIN"
+        },
+        {
+          "name": "SAN LUIS POTOSI",
+          "id": 25,
+          "key": "SLP"
+        },
+        {
+          "name": "SONORA",
+          "id": 26,
+          "key": "SON"
+        },
+        {
+          "name": "TABASCO",
+          "id": 27,
+          "key": "TAB"
+        },
+        {
+          "name": "TAMAULIPAS",
+          "id": 28,
+          "key": "TAM"
+        },
+        {
+          "name": "TLAXCALA",
+          "id": 29,
+          "key": "TLA"
+        },
+        {
+          "name": "VERACRUZ",
+          "id": 30,
+          "key": "VER"
+        },
+        {
+          "name": "YUCATAN",
+          "id": 31,
+          "key": "YUC"
+        },
+        {
+          "name": "ZACATECAS",
+          "id": 32,
+          "key": "ZAC"
+        }
+    ]   
+}
