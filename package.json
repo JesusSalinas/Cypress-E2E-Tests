@@ -1,6 +1,6 @@
 {
   "scripts": {
-    "cy:open": "cypress open"
+    "cy:open": "cypress open --config-file config.beta.json"
   },
   "devDependencies": {
     "cypress": "^9.1.1",
