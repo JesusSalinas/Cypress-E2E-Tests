@@ -1,0 +1,23 @@
+name: Automation Tests
+on:
+  push:
+    branches:
+      - main
+jobs:
+  cypress-run:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v2
+      - name: API Regression Tests
+        uses: cypress-io/github-action@v2
+        with:
+          spec: cypress/integration/api/smoke/**
+          record: false
+          config: baseUrl=https://www.google.com
+          #group: API
+          browser: chrome
+          headless: true
+        env: 
+          CYPRESS_API_URL: https://api.todoist.com/rest/v1
+          CYPRESS_TOKEN: ${{secrets.CYPRESS_TOKEN}}
