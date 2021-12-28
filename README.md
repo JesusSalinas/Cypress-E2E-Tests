@@ -6,7 +6,7 @@
 * [Dependencies](#dependencies)
 
 ## Resume
-The main aim of this project is to provide a basic suit configuration of automation tests with Cypress.
+The main aim of this project is to provide a basic suit configuration of automation tests with Cypress. You can find the application tests in the following links: [SWAGLABS](https://www.saucedemo.com) | [TODOIST](https://developer.todoist.com/guides/#developing-with-todoist) 
 ## Pre-requirements
 * To have installed a node version [managment](https://github.com/nvm-sh/nvm)
 * To have installed the ``v16.11.1`` node version or higher

@@ -9,6 +9,7 @@
     "baseUrl": "https://test.todoist.team",
     "env": {
       "API_URL": "https://test.todoist.team",
+      "TOKEN": "********************",
       "PASSWORD": "****",
       "ADMIN_USER": "test@todoist.team"
     }

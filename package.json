@@ -2,7 +2,8 @@
   "scripts": {
     "cy:beta": "cypress open --config-file config.beta.json",
     "api-smoke:beta": "cypress run --spec 'cypress/integration/api/smoke/**' --headless --config-file config.beta.json",
-    "api-regression:beta": "cypress run --spec 'cypress/integration/api/regression/**' --headless --config-file config.beta.json"
+    "api-regression:beta": "cypress run --spec 'cypress/integration/api/regression/**' --headless --config-file config.beta.json",
+    "e2e-smoke:beta": "cypress run --spec 'cypress/integration/app/**' --headless --config-file config.beta.json"
   },
   "devDependencies": {
     "cypress": "^9.1.1",

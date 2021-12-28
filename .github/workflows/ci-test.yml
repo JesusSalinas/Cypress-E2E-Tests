@@ -21,3 +21,5 @@ jobs:
         env: 
           CYPRESS_API_URL: https://api.todoist.com/rest/v1
           CYPRESS_TOKEN: ${{secrets.CYPRESS_TOKEN}}
+          CYPRESS_PASSWORD: ${{secrets.CYPRESS_PASSWORD}}
+          CYPRESS_ADMIN_USER: ${{secrets.CYPRESS_ADMIN_USER}}
